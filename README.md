@@ -2,7 +2,7 @@
 
 # 边缘节点(EdgeNova)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/edgenova) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/edgenova) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 边缘节点（EdgeNova）是一项兼有直连与 IPLC 线路的机场服务，常见叫法包括“EdgeNova VPN”“EdgeNova 梯子”和“边缘节点机场”。不同套餐对应的代理节点线路可能不同，选择时应先核对结算页，再结合本地运营商和晚高峰测速判断。
 
