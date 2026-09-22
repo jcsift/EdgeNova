@@ -44,6 +44,7 @@
 > [!TIP]
 >
 > - **专属8折折扣码**：`eoht888`
+> - **适用范围**：适用套餐与折后价格以结算页为准，不能确认所有限时套餐都参与优惠。
 > - **新手建议**：轻度使用选**限时年付**，日常流媒体与 AI 工具推荐**极界·进阶套餐 / 极界·高级套餐**。
 >
 
@@ -95,5 +96,7 @@
 - [账号合租与数字账号指南](https://eoht.net/serve/sharing/account-sharing-guide)
 - [AI 工具使用指南](https://eoht.net/ai/summary)
 - [Hero SMS 国外接码平台](https://eoht.net/serve/code/sms)
+
+[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
 
 > 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
